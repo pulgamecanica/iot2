@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
         - name: playground
-          image: wil42/playground:v2  # <--- Switch to v2 later
+          image: wil42/playground:v1  # <--- Switch to v2 later
           ports:
             - containerPort: 8888
