@@ -10,7 +10,7 @@ spec:
   source:
     repoURL: https://github.com/pulgamecanica/iot2
     targetRevision: HEAD
-    path: app
+    path: confs
   project: default
   syncPolicy:
     automated:
